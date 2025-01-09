@@ -16,7 +16,7 @@
         c = s(11163),
         l = s(21850),
         d = s(21003),
-        v = "https://discord.gg/uP3hGWQh8b",
+        v = "https://t.me/SLWR_AI",
         h = s(44175),
         u = (e) => {
           let { lightMode: a } = e,
